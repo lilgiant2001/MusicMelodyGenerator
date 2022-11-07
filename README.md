@@ -38,3 +38,7 @@ Instructions to operate code:
        u-bound you can generate music based on specific composers/ groups
        of composers. The documentation of the "make-song" procedure 
        provides more info.
+       
+       
+Citation for Orchset Dataset:
+Bosch, J., Marxer, R., Gomez, E., “Evaluation and Combination of Pitch Estimation Methods for Melody Extraction in Symphonic Classical Music”, Journal of New Music Research (2016)
